@@ -1,0 +1,14 @@
+PS C:\Users\shahi> streamlit run webapp_insurance.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.10:8501
+
+
+
+Result of GCP cloud
+
+https://insurance-cross-sell-deploy-64390208394.us-central1.run.app/
+
+
